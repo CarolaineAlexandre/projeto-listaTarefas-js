@@ -1,0 +1,28 @@
+html, body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, #ffb1d7, #c84dfd);
+    color: rgb(45, 2, 58);
+  }
+
+  .cabecalho {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: arial;
+}
+
+.logo {
+    width: 200px;
+}
+
+.principal {
+    color: rgb(175, 20, 72);
+    display: inline-block;
+    width: 50%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    margin-right:50%;
+}
