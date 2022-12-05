@@ -4,15 +4,15 @@ html, body {
     justify-content: center;
     height: 100%;
     width: 100%;
-    background: linear-gradient(to right, #ffb1d7, #c84dfd);
-    color: rgb(45, 2, 58);
-  }
+    background: linear-gradient(to right, #f0ead4fa, #ffffff);
+     }
 
   .cabecalho {
     display: flex;
     justify-content: space-around;
     align-items: center;
     font-family: arial;
+    margin-left:3%;
 }
 
 .logo {
